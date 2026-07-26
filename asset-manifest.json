@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Harapriya4753/TextUtils/static/css/main.f855e6bc.css",
-    "main.js": "/Harapriya4753/TextUtils/static/js/main.fd487c9a.js",
-    "static/js/453.824f0f0e.chunk.js": "/Harapriya4753/TextUtils/static/js/453.824f0f0e.chunk.js",
-    "index.html": "/Harapriya4753/TextUtils/index.html",
-    "main.f855e6bc.css.map": "/Harapriya4753/TextUtils/static/css/main.f855e6bc.css.map",
-    "main.fd487c9a.js.map": "/Harapriya4753/TextUtils/static/js/main.fd487c9a.js.map",
-    "453.824f0f0e.chunk.js.map": "/Harapriya4753/TextUtils/static/js/453.824f0f0e.chunk.js.map"
+    "main.css": "/TextUtils/static/css/main.f855e6bc.css",
+    "main.js": "/TextUtils/static/js/main.d8ea4220.js",
+    "static/js/453.824f0f0e.chunk.js": "/TextUtils/static/js/453.824f0f0e.chunk.js",
+    "index.html": "/TextUtils/index.html",
+    "main.f855e6bc.css.map": "/TextUtils/static/css/main.f855e6bc.css.map",
+    "main.d8ea4220.js.map": "/TextUtils/static/js/main.d8ea4220.js.map",
+    "453.824f0f0e.chunk.js.map": "/TextUtils/static/js/453.824f0f0e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.fd487c9a.js"
+    "static/js/main.d8ea4220.js"
   ]
 }
